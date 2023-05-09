@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Mimi-mochi 👋
-- ✨ I’m interested in Grafic Design and Web Design ✨
-- 🌱💻 I’m currently learning Design 💻🌱�
-- 💞️ I’m looking to collaborate on (...)
-- 📫 How to reach me (...)
+- 👋 | Hi, I’m @Mimi-mochi 👋
+- ✨ | I’m interested in Web Development/Grafic Design/Web Design/Motion Design✨
+- 🌱 |💻 I’m currently learning Web Development 💻🌱
+- 📫 | How to reach me (...)
 
 <!---
 Hi, my nickname is Mimi-mochi, but you can call me just Mimi. I study design, and i wanna learn more and more.
